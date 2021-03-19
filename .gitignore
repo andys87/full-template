@@ -5,3 +5,4 @@ env.py
 __pycache__/
 *.py[cod]
 password.txt.
+password.txt
